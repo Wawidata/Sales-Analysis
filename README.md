@@ -1,6 +1,11 @@
 # Sales-Analysis
 ## Project Overview
 This project focuses on analyzing sales data to uncover trends, patterns, and performance drivers that support data-driven business decisions. The analysis involved cleaning, standardizing, and transforming raw sales data, followed by exploratory analysis and interactive visualization using Excel. 
+
+https://github.com/Wawidata/Sales-Analysis/blob/main/sales%20dashboard.PNG
+
+<img width="1105" height="433" alt="sales dashboard" src="https://github.com/user-attachments/assets/df7278b5-bdc2-4eb8-8f60-b53172fbfe95" />
+
 ## Tools 
 Microsoft Excel[download here](https://www.microsoft.com)
  data cleaning
