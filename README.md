@@ -6,7 +6,9 @@ https://github.com/Wawidata/Sales-Analysis/blob/main/sales%20dashboard.PNG
 
 <img width="1105" height="433" alt="sales dashboard" src="https://github.com/user-attachments/assets/df7278b5-bdc2-4eb8-8f60-b53172fbfe95" />
 
-## Data source
+## Data sources
+
+https://github.com/Wawidata/Sales-Analysis/blob/main/B%26J%20Buscuit%20Practice%20Dataset.xlsx
 
 https://www.kaggle.com/datasets
 ## Tools 
